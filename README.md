@@ -2,7 +2,7 @@
 
 This project involves analyzing a dataset for financial risk assessment, handling missing values in the data, and saving the cleaned dataset for further analysis.
 
-![cover](/Users/haiyanqin/DA_Projects/Financial Risk Analysis/cover.JPG)
+![cover](/cover.JPG)
 
 ## Introduction
 
